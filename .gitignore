@@ -1,0 +1,8 @@
+workspace/code/*/*.o
+workspace/code/*/*.d
+workspace/code/case001/suma
+workspace/code/case002/relay_example
+workspace/code/case003/rebel_link
+workspace/tests/*.out
+workspace/tests/*.err
+workspace/tests/*.diff
